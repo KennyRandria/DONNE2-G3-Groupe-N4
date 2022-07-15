@@ -4,7 +4,7 @@ Dans ce projet nous allons construire et manipuler une base de donnée d'une coo
 
 ![shema_BDD](/complement/Soavadia_shema.PNG)
 
-Le chema et la BDD avec tout les tableaux existent déjà, alors, le projet est constitué de deux parties distinctes:
+Le schéma et la BDD avec tout les tableaux existent déjà, alors, le projet est constitué de deux parties distinctes:
 
 - Inserer des données sur les tableaux dejà existants
 - Faire des requêtes SELECT sur des informations pertinantes des données
@@ -52,7 +52,7 @@ Si vous utiliser mockaroo, attention à avoir des données supportées par postg
 
 ## Modifier ou ajouter des requêtes SELECT
 
-Tous les insertions de donnée se feront sur la branshe **modif-select**
+Toutes les insertions de donnée se feront sur la branshe **modif-select**
 
 Chaque requêtes se plaseront dans un seul fichier sql.
 
